@@ -1,0 +1,21 @@
+[urgency_low]
+    background = "#2E3436"
+    foreground = "#D3D7CF"
+    frame_width = 2
+    width = 250
+
+[urgency_normal]
+    background = "#3465A4"
+    foreground = "#FFFFFF"
+    frame_width = 2
+    width = 250
+
+[urgency_critical]
+    background = "#CC0000"
+    foreground = "#FFFFFF"
+    frame_width = 2
+    width = 250
+[global]
+    # Set the notification history to be 1 so it replaces the current notification
+    history = 1
+

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "modules": [
+    "title",
+    "os",
+    "kernel",
+    "cpu",
+    "gpu",
+    "de"
+  ],
+  "colors": {
+    "title": "#FF6347",         // Red for title
+    "os": "#4682B4",            // SteelBlue for OS
+    "kernel": "#32CD32",        // LimeGreen for Kernel
+    "cpu": "#FFD700",           // Gold for CPU
+    "gpu": "#8A2BE2",           // BlueViolet for GPU
+    "de": "#FF1493"             // DeepPink for Desktop Environment
+  }
+}
